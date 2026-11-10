@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.preview/
+.archive/
+.venv/
+~$*
+.~lock.*#
+*.tmp
